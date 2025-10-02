@@ -16,3 +16,8 @@ Run unit tests with code coverage:
 cd grade_calculator/
 go test -coverprofile=coverage.txt ./...
 ```
+
+Go docs:
+```
+https://go.dev/doc/modules
+```
